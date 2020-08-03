@@ -50,7 +50,7 @@ kaggle competitions download -c plant-pathology-2020-fgvc7
 ## Links to other Valuable Notebooks
 Leaderboard
 
-Username                        Error rate    Link to notebook
+Username  |                      Error rate    |Link to notebook
 1. @vitsalis                    0.024725  https://github.com/vitsalis/kaggle/blob/master/FGVC7/solution.ipynb
 1. @darthwaydr007               0.024725  https://github.com/darthwaydr007/kaggle/blob/master/Plant_pathology_updated1.ipynb
 2. @TheSergiu                    0.046703 https://github.com/thesergiu/PlantPathologyKaggle2020/blob/master/PlantPathologyKaggle2020.ipynb
